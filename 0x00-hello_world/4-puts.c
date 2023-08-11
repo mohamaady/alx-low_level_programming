@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - this is the main function
- *
  * return always 0
  */
 
